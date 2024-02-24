@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Baydakov",
+  "license": "ISC",
+  "description": ""
+}
