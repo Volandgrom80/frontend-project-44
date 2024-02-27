@@ -34,3 +34,4 @@ BRAIN-GCD:  https://asciinema.org/a/VA6d4b6QXfpidrVwYQkXuLdJ8;
 
 BRAIN-PROGRESSION:  https://asciinema.org/a/vVOwjG3XDfb05VHiXVm2vR5dn;
 
+BRAIN-PRIME:  https://asciinema.org/a/HMNhVZOH0K5JDLIA8nYS2XcoW.
