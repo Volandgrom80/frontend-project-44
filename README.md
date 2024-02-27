@@ -29,3 +29,5 @@ LAUNCH THE GAME
 Brain-even: https://asciinema.org/a/ACpmc9dT3k0ELRSaDZawgVyFx
 
 Brain-calc: https://asciinema.org/a/ZPAIInRAbXxObXMyD60W5YNwX
+
+Brain-gcd:  https://asciinema.org/a/VA6d4b6QXfpidrVwYQkXuLdJ8
