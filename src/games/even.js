@@ -21,4 +21,3 @@ const runEvenGame = () => {
   startGameLogic(description, generateRound);
 };
 export default runEvenGame;
-
