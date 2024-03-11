@@ -27,22 +27,22 @@ LAUNCH THE GAME
       brain-prime - starts the game, in which you need to tell is the number prime      
 
 BRAIN-EVEN GAME
-https://asciinema.org/a/ACpmc9dT3k0ELRSaDZawgVyFx
+
 <a href="https://asciinema.org/a/ACpmc9dT3k0ELRSaDZawgVyFx" target="_blank"><img src="https://asciinema.org/a/ACpmc9dT3k0ELRSaDZawgVyFx.svg" /></a>
 
 BRAIN-CALC GAME
-https://asciinema.org/a/ZPAIInRAbXxObXMyD60W5YNwX
+
 <a href="https://asciinema.org/a/ZPAIInRAbXxObXMyD60W5YNwX" target="_blank"><img src="https://asciinema.org/a/ZPAIInRAbXxObXMyD60W5YNwX.svg" /></a>
 
 BRAIN-GCD GAME
-https://asciinema.org/a/VA6d4b6QXfpidrVwYQkXuLdJ8
+
 <a href="https://asciinema.org/a/VA6d4b6QXfpidrVwYQkXuLdJ8" target="_blank"><img src="https://asciinema.org/a/VA6d4b6QXfpidrVwYQkXuLdJ8.svg" /></a>
 
 BRAIN-PROGRESSION GAME
-https://asciinema.org/a/vVOwjG3XDfb05VHiXVm2vR5dn
+
 <a href="https://asciinema.org/a/vVOwjG3XDfb05VHiXVm2vR5dn" target="_blank"><img src="https://asciinema.org/a/vVOwjG3XDfb05VHiXVm2vR5dn.svg" /></a>
 
 BRAIN-PRIME GAME
-https://asciinema.org/a/HMNhVZOH0K5JDLIA8nYS2XcoW
+
 <a href="https://asciinema.org/a/HMNhVZOH0K5JDLIA8nYS2XcoW" target="_blank"><img src="https://asciinema.org/a/HMNhVZOH0K5JDLIA8nYS2XcoW.svg" /></a>
                                                                                                                                                                                                         
