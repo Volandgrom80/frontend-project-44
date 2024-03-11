@@ -26,7 +26,24 @@ LAUNCH THE GAME
       brain-progression - starts the game, in which you need to complete the progression with correct number
       brain-prime - starts the game, in which you need to tell is the number prime      
 
-BRAIN-EVEN: https://asciinema.org/a/ACpmc9dT3k0ELRSaDZawgVyFx;
+BRAIN-EVEN GAME
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
+</head>
+<body>
+  <div id="player"></div>
+  <script src="asciinema-player.min.js"></script>
+  <script>
+    AsciinemaPlayer.create(
+      '/assets/642891.cast',
+      document.getElementById('player'),
+      { cols: 151, rows: 46 }
+    );
+  </script>
+</body>
+</html>
 
 BRAIN-CALC: https://asciinema.org/a/ZPAIInRAbXxObXMyD60W5YNwX;
 
@@ -35,3 +52,4 @@ BRAIN-GCD:  https://asciinema.org/a/VA6d4b6QXfpidrVwYQkXuLdJ8;
 BRAIN-PROGRESSION:  https://asciinema.org/a/vVOwjG3XDfb05VHiXVm2vR5dn;
 
 BRAIN-PRIME:  https://asciinema.org/a/HMNhVZOH0K5JDLIA8nYS2XcoW.
+                                                                                                                                                                                                        
