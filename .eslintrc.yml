@@ -12,3 +12,8 @@ rules:
     - ignorePackages
     - js: always
   linebreak-style: 0
+runs:
+  using: 'node20'
+  pre: 'setup.js'
+  main: 'index.js'
+  post: 'cleanup.js'
